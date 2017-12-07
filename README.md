@@ -1,7 +1,7 @@
 # Demo.ServiceStack
 C# 调用方式:
 需要引用命名空间:
-using ServiceStack;
+
 namespace ServiceStackSend
 {
     class Program
