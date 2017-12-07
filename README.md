@@ -1,8 +1,10 @@
 # Demo.ServiceStack
 C# 调用方式:
 需要引用命名空间:
-        using ServiceStack;
-       class Program
+using ServiceStack;
+namespace ServiceStackSend
+{
+    class Program
     {
         static void Main(string[] args)
         { 
@@ -46,3 +48,5 @@ C# 调用方式:
         public string ProductCode { get; set; }
 
     }
+}
+        
